@@ -1,0 +1,22 @@
+{
+  "name": "kiro",
+  "version": "0.1.0",
+  "description": "Voici mon bot ",
+  "main": "index.js",
+  "dependencies": {
+    "@discordjs/opus": "^0.5.3",
+    "discord.js": "^12.5.3",
+    "ffmpeg": "0.0.4",
+    "ffmpeg-static": "^4.4.0",
+    "fluent-ffmpeg": "^2.1.2",
+    "opusscript": "0.0.8",
+    "ytdl": "^1.4.1",
+    "ytdl-core": "^4.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kiro",
+  "license": "MIT"
+}
